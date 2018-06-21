@@ -1,0 +1,9 @@
+.homepage {
+    width: 100vw;
+    height: 100vh;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100vw !important;
+    background-image: url('../../assets/image/chalkboard.jpg');
+    background-size: contain;
+}
